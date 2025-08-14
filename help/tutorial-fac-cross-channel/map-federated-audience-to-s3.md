@@ -44,6 +44,6 @@ You can leverage audience attributes in your data warehouse to enrich your audie
 
 >[**SUMMARY**]
 >
-> We successfully built an audience and activated it to an S3 destination with ease. The platform's user-friendly interface allows marketing teams to quickly build and activate audiences, reducing time to value. Customers taking this approach have gone live with there first use case in under two months.
+> We successfully built an audience and activated it to an S3 destination with ease. Another solution can pick up this Audience from S3 and use it straightaway as needed. The  user-friendly interface allows marketing teams to quickly build and activate audiences, without moving the underlying data, reducing time to value. Customers taking this approach have gone live with their first use case in about a month.
 
-We're ready to move on to [building a journey](build-journey-federated-audience.md).
+The next step we are going to do is [building a journey](build-journey-federated-audience.md).
