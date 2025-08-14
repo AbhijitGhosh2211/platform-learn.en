@@ -10,7 +10,7 @@ exl-id: 3935f3ff-7728-4cd1-855e-2cd02c2ecc59
 ---
 # Data Warehouse connection
 
-We start by configuring a connection between Adobe Experience Platform and your enterprise Data Warehouse to enable Federated Audience Composition. This allows you to query data directly from supported warehouses without replication. Additionally, we create Schemas and Data Models based on the Data Warehouse tables. 
+We start by configuring a connection between Adobe Experience Platform and your enterprise Data Warehouse. This allows you to query data directly from supported warehouses without replication. Additionally, we are going to use the Schemas as it sits in the data warehouse to support query building.  
 
 To demonstrate, we connect to a Snowflake account. Federated Audience Composition supports a growing list of cloud warehouse connections. See the [updated list of integrations](https://experienceleague.adobe.com/en/docs/federated-audience-composition/using/start/access-prerequisites){target="_blank"}.
 
